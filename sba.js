@@ -157,14 +157,14 @@ function getLearnerData(course, ag, submissions) {
   
   // Example data
   const CourseInfo = {
-    id: 451,
+    id: 308,
     name: "Introduction to JavaScript"
   };
   
   const AssignmentGroup = {
     id: 12345,
     name: "Fundamentals of JavaScript",
-    course_id: 451,
+    course_id: 308,
     group_weight: 25,
     assignments: [
       {
